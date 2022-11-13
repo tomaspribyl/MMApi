@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MMApi\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">= 8.1"
+    }
+}
